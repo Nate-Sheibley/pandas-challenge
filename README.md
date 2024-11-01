@@ -1,5 +1,6 @@
-# pandas-challenge
-Dataframe manipulation excercise using city-school-district data, resulting in the beginning of a socioeconomic analysis.
+# school-marks-breakdown
+
+Dataframe manipulation excercise using city-school-district data. Using addtional cencus data it could be expanded into a socioeconomic analysis.
 
 UCBerkeley Ext. Data Analytics Bootcamp - Homework 4
 
